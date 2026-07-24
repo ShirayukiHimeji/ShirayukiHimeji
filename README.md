@@ -33,4 +33,4 @@ Asus Vivobook E1404GA, Spec :
 ![Firefox](https://img.shields.io/badge/Firefox-D9A23B?style=flat&logo=firefox)
 
 ### Games
-<img alt="Stella Sora" src="https://static.wikitide.net/stellasorawiki/0/00/Stella_Sora_Logo.png" width="24">
+<img alt="Stella Sora" src="https://static.wikitide.net/stellasorawiki/0/00/Stella_Sora_Logo.png" width="50">

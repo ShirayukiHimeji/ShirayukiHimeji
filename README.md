@@ -22,4 +22,4 @@ Asus Vivobook E1404GA, Spec :
 - RAM : 8 GB
 - SSD : 512 GB
 - Wifi Card : Mediatek MT7921
-- OS : ![Gentoo](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)
+- OS : ![Gentoo](https://img.shields.io/badge/Gentoo-purple?style=plastic&logo=gentoo&cacheSeconds=10)

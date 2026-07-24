@@ -24,10 +24,10 @@ Asus Vivobook E1404GA, Spec :
 - Wifi Card : Mediatek MT7921
 
 ### OS
-![Gentoo](https://img.shields.io/badge/Gentoo-purple?style=flat&logo=gentoo&cacheSeconds=10) ![Linux](https://img.shields.io/badge/Linux-3B3B32?style=flat&logo=linux&cacheSeconds=10)
+![Gentoo](https://img.shields.io/badge/Gentoo-purple?style=flat&logo=gentoo) ![Linux](https://img.shields.io/badge/Linux-3B3B32?style=flat&logo=linux&logoColor=white)
 
 ### WM
-![Hyprland](https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland&cacheSeconds=10)
+![Hyprland](https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland)
 
 ### Browser
-![Firefox](https://img.shields.io/badge/Firefox-D9A23B?style=flat&logo=firefox&cacheSeconds=10)
+![Firefox](https://img.shields.io/badge/Firefox-D9A23B?style=flat&logo=firefox)

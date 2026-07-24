@@ -18,7 +18,7 @@ I'm Shirayuki Himeji From Anime Liar Liar
 
 Asus Vivobook E1404GA
 Spec :
-Intel i3-N305 ![i3-N305](https://upload.wikimedia.org/wikipedia/commons/9/90/Intel_Core_i3_Logo_2020.png)
-
-
-![I Use Gentoo Btw](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)
+Processor : Intel i3-N305
+RAM       : 8 GB
+SSD       : 512 GB
+OS        : ![I Use Gentoo Btw](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)

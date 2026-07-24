@@ -22,9 +22,11 @@ Spec :
 
 Processor : Intel i3-N305
 
-RAM       : 8 GB
+RAM : 8 GB
 
-SSD       : 512 GB
+SSD : 512 GB
 
-OS        : ![I Use Gentoo Btw](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)
+OS : ![alt text](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)
+
+
 

@@ -23,3 +23,4 @@ Asus Vivobook E1404GA, Spec :
 - SSD : 512 GB
 - Wifi Card : Mediatek MT7921
 - OS : ![Gentoo](https://img.shields.io/badge/Gentoo-purple?style=plastic&logo=gentoo&cacheSeconds=10)
+- Browser : ![Firefox](https://img.shields.io/badge/Firefox-D9A23B?style=plastic&logo=firefox&cacheSeconds=10)

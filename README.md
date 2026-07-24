@@ -36,4 +36,4 @@ Asus Vivobook E1404GA, Spec :
 ![VS Code](https://img.shields.io/badge/Visual_Code_Studio-0078d7?style=flat&logoColor=white)
 
 ### Games
-<img alt="Stella Sora" src="https://static.wikitide.net/stellasorawiki/0/00/Stella_Sora_Logo.png" width="75">
+![Stella Sora](https://img.shields.io/badge/Stella_Sora-0078d8?style=flat)

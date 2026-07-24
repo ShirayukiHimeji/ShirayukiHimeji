@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ## Hi
 I'm Shirayuki Himeji From Anime Liar Liar
 
-Asus Vivobook E1404GA ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white), Spec :
+Asus Vivobook E1404GA, Spec :
 
-- Processor : Intel i3-N305 ![Intel](https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)
+- Processor : Intel i3-N305
 - RAM : 8 GB
 - SSD : 512 GB
 - Wifi Card : Mediatek MT7921

@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 ## Hi
 I'm Shirayuki Himeji From Anime Liar Liar
 
-Asus Vivobook E1404GA
-
-Spec :
+Asus Vivobook E1404GA, Spec :
 
 Processor : Intel i3-N305
 
 RAM : 8 GB
 
 SSD : 512 GB
+
+Wifi Card : Mediatek MT7921
 
 OS : ![alt text](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)
 

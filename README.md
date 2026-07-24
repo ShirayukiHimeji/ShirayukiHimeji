@@ -29,8 +29,8 @@ Asus Vivobook E1404GA, Spec :
 ### WM
 ![Hyprland](https://img.shields.io/badge/Hyprland-2B6B5F?style=flat&logo=hyprland)
 
-### Browser
-![Firefox](https://img.shields.io/badge/Firefox-D9A23B?style=flat&logo=firefox)
+### Language
+![Python](https://img.shields.io/badge/Python-0077b6?style=flat&logo=python&logoColor=white)
 
 ### Code Editor
 ![VS Code](https://img.shields.io/badge/Visual_Code_Studio-0078d7?style=flat&logoColor=white)
